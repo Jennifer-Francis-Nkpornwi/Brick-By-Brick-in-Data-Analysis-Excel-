@@ -1,4 +1,4 @@
-## My-Brick-By-Brick-in-Learning-Data-Analysis-Using-Excel
+## Jennifer-Francis-Nkpornwi-Brick-By-Brick-Steps-in-Learning-Data-Analysis-Using-Excel
 
 * With this Project;I am detailing the steps I took in approaching Data Analysis using Excel
 * As a learner, the detailed processes is to enable me to learn and understand  how to use the right approach in solving business problems.
